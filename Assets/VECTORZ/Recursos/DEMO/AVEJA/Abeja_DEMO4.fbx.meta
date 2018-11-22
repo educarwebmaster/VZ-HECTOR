@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: c53c869cae0779b429b2c24ba32e732a
+timeCreated: 1458251112
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BEE
+    100004: BEE001
+    100006: bn_centro
+    100008: bn_columna
+    100010: bn_der1_1
+    100012: bn_der1_2
+    100014: bn_der1_3
+    100016: bn_der1_4
+    100018: bn_der2_1
+    100020: bn_der2_2
+    100022: bn_der2_3
+    100024: bn_der2_4
+    100026: bn_der3_1
+    100028: bn_der3_2
+    100030: bn_der3_3
+    100032: bn_der3_4
+    100034: bn_izq1_1
+    100036: bn_izq1_2
+    100038: bn_izq1_3
+    100040: bn_izq1_4
+    100042: bn_izq2_1
+    100044: bn_izq2_2
+    100046: bn_izq2_3
+    100048: bn_izq2_4
+    100050: bn_izq3_1
+    100052: bn_izq3_2
+    100054: bn_izq3_3
+    100056: bn_izq3_4
+    100058: ctrl_ala_der
+    100060: ctrl_ala_izq
+    100062: ctrl_base
+    100064: huesos
+    100066: IK
+    100068: ikHandle1
+    100070: ikHandle2
+    100072: ikHandle3
+    100074: ikHandle4
+    100076: ikHandle5
+    100078: ikHandle6
+    100080: ikHandle7
+    100082: joint1
+    100084: joint2
+    100086: joint2 1
+    100088: joint5
+    100090: left1
+    100092: left2
+    100094: model
+    100096: polySurface92
+    100098: polySurface93
+    100100: right1
+    100102: transform105
+    400000: //RootNode
+    400002: BEE
+    400004: BEE001
+    400006: bn_centro
+    400008: bn_columna
+    400010: bn_der1_1
+    400012: bn_der1_2
+    400014: bn_der1_3
+    400016: bn_der1_4
+    400018: bn_der2_1
+    400020: bn_der2_2
+    400022: bn_der2_3
+    400024: bn_der2_4
+    400026: bn_der3_1
+    400028: bn_der3_2
+    400030: bn_der3_3
+    400032: bn_der3_4
+    400034: bn_izq1_1
+    400036: bn_izq1_2
+    400038: bn_izq1_3
+    400040: bn_izq1_4
+    400042: bn_izq2_1
+    400044: bn_izq2_2
+    400046: bn_izq2_3
+    400048: bn_izq2_4
+    400050: bn_izq3_1
+    400052: bn_izq3_2
+    400054: bn_izq3_3
+    400056: bn_izq3_4
+    400058: ctrl_ala_der
+    400060: ctrl_ala_izq
+    400062: ctrl_base
+    400064: huesos
+    400066: IK
+    400068: ikHandle1
+    400070: ikHandle2
+    400072: ikHandle3
+    400074: ikHandle4
+    400076: ikHandle5
+    400078: ikHandle6
+    400080: ikHandle7
+    400082: joint1
+    400084: joint2
+    400086: joint2 1
+    400088: joint5
+    400090: left1
+    400092: left2
+    400094: model
+    400096: polySurface92
+    400098: polySurface93
+    400100: right1
+    400102: transform105
+    4300000: polySurface92
+    4300002: polySurface93
+    4300004: BEE
+    7400000: Caminar
+    7400002: VOLAR
+    9500000: //RootNode
+    13700000: BEE
+    13700002: polySurface92
+    13700004: polySurface93
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Caminar
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BEE001
+        weight: 1
+      - path: BEE001/polySurface92
+        weight: 1
+      - path: BEE001/polySurface93
+        weight: 1
+      - path: BEE001/transform105
+        weight: 1
+      - path: ctrl_base
+        weight: 1
+      - path: ctrl_base/ctrl_ala_der
+        weight: 1
+      - path: ctrl_base/ctrl_ala_izq
+        weight: 1
+      - path: ctrl_base/huesos
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_centro
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1/bn_der1_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1/bn_der1_2/bn_der1_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1/bn_der1_2/bn_der1_3/bn_der1_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1/bn_der2_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1/bn_der2_2/bn_der2_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1/bn_der2_2/bn_der2_3/bn_der2_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1/bn_der3_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1/bn_der3_2/bn_der3_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1/bn_der3_2/bn_der3_3/bn_der3_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1/bn_izq1_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1/bn_izq1_2/bn_izq1_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1/bn_izq1_2/bn_izq1_3/bn_izq1_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1/bn_izq2_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1/bn_izq2_2/bn_izq2_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1/bn_izq2_2/bn_izq2_3/bn_izq2_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1/bn_izq3_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1/bn_izq3_2/bn_izq3_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1/bn_izq3_2/bn_izq3_3/bn_izq3_4
+        weight: 1
+      - path: ctrl_base/huesos/joint1
+        weight: 1
+      - path: ctrl_base/huesos/joint1/joint2
+        weight: 1
+      - path: ctrl_base/huesos/joint5
+        weight: 1
+      - path: ctrl_base/huesos/joint5/joint2 1
+        weight: 1
+      - path: ctrl_base/IK
+        weight: 1
+      - path: ctrl_base/IK/ikHandle1
+        weight: 1
+      - path: ctrl_base/IK/ikHandle2
+        weight: 1
+      - path: ctrl_base/IK/ikHandle3
+        weight: 1
+      - path: ctrl_base/IK/ikHandle4
+        weight: 1
+      - path: ctrl_base/IK/ikHandle5
+        weight: 1
+      - path: ctrl_base/IK/ikHandle6
+        weight: 1
+      - path: ctrl_base/IK/ikHandle7
+        weight: 1
+      - path: left1
+        weight: 1
+      - path: left2
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/BEE
+        weight: 1
+      - path: right1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: VOLAR
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BEE001
+        weight: 1
+      - path: BEE001/polySurface92
+        weight: 1
+      - path: BEE001/polySurface93
+        weight: 1
+      - path: BEE001/transform105
+        weight: 1
+      - path: ctrl_base
+        weight: 1
+      - path: ctrl_base/ctrl_ala_der
+        weight: 1
+      - path: ctrl_base/ctrl_ala_izq
+        weight: 1
+      - path: ctrl_base/huesos
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_centro
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1/bn_der1_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1/bn_der1_2/bn_der1_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der1_1/bn_der1_2/bn_der1_3/bn_der1_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1/bn_der2_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1/bn_der2_2/bn_der2_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der2_1/bn_der2_2/bn_der2_3/bn_der2_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1/bn_der3_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1/bn_der3_2/bn_der3_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_der3_1/bn_der3_2/bn_der3_3/bn_der3_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1/bn_izq1_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1/bn_izq1_2/bn_izq1_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq1_1/bn_izq1_2/bn_izq1_3/bn_izq1_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1/bn_izq2_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1/bn_izq2_2/bn_izq2_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq2_1/bn_izq2_2/bn_izq2_3/bn_izq2_4
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1/bn_izq3_2
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1/bn_izq3_2/bn_izq3_3
+        weight: 1
+      - path: ctrl_base/huesos/bn_columna/bn_izq3_1/bn_izq3_2/bn_izq3_3/bn_izq3_4
+        weight: 1
+      - path: ctrl_base/huesos/joint1
+        weight: 1
+      - path: ctrl_base/huesos/joint1/joint2
+        weight: 1
+      - path: ctrl_base/huesos/joint5
+        weight: 1
+      - path: ctrl_base/huesos/joint5/joint2 1
+        weight: 1
+      - path: ctrl_base/IK
+        weight: 1
+      - path: ctrl_base/IK/ikHandle1
+        weight: 1
+      - path: ctrl_base/IK/ikHandle2
+        weight: 1
+      - path: ctrl_base/IK/ikHandle3
+        weight: 1
+      - path: ctrl_base/IK/ikHandle4
+        weight: 1
+      - path: ctrl_base/IK/ikHandle5
+        weight: 1
+      - path: ctrl_base/IK/ikHandle6
+        weight: 1
+      - path: ctrl_base/IK/ikHandle7
+        weight: 1
+      - path: left1
+        weight: 1
+      - path: left2
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/BEE
+        weight: 1
+      - path: right1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

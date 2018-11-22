@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 416856}
+  - 33: {fileID: 3308982}
+  - 65: {fileID: 6514244}
+  - 114: {fileID: 11498046}
+  m_Layer: 10
+  m_Name: VIDEO
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &416856
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101672}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!33 &3308982
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101672}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &6514244
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101672}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &11498046
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b33d575efbb0f439307098294b6ab4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Mover: 0
+  Rotar: 0
+  Agrandar: 0
+  Video: 1
+  GUI: 0
+  Touch: 1
+  Texto_informativo: 1
+  DesabilitarBotones: 1
+  Tipo: 2
+  VideoNombre: VIDEO.mp4
+  AnimacionTouch: 
+  AnimacionRestablecer: 
+  AnimacionTouchGUI: 
+  Texto: "El experimento de Torricelli Evangelista Torricelli fue un cient\xEDfico
+    italiano que vivi\xF3 en el siglo XVII. El demostr\xF3 por medio de un experimento
+    que la atm\xF3sfera ejerce una fuerza o presi\xF3n sobre la superficie terrestre.
+    Torricelli,  llen\xF3 un tubo de 1 m de largo con mercurio, y lo tap\xF3 por uno
+    de sus extremos.  Luego invirti\xF3 el tubo sobre recipiente amplio lleno de mercurio,
+    esto provoc\xF3 que la columna de mercurio del tubo bajara varios cent\xEDmetros,
+    pero siempre permanec\xEDa en 76 cm (760 mm) de altura ya que en esta influ\xEDa
+    la presi\xF3n atmosf\xE9rica. Gracias al experimento, Torricelli concluy\xF3 que
+    la presi\xF3n atmosf\xE9rica era proporcional a la columna de mercurio (Hg). Seg\xFAn
+    lo anterior, se tom\xF3 como unidad de medida de presi\xF3n atmosf\xE9rica el
+    mil\xEDmetro de mercurio (mmHg). De este modo 760 mmHg corresponden a una atm\xF3sfera. "
+  anim: {fileID: 0}
+  anim_GUI: {fileID: 0}
+  myMarker: {fileID: 0}
+  touch: {fileID: 0}
+  Speedme: 3
+  VelocidadCaminado: 0
+  rotacion: 0.27
+  RegrasarEstadoImagen: {fileID: 0}
+  EstadoImagen: {fileID: 0}
+  Titulo_recurso: {fileID: 0}
+  EstadoRotacion: {fileID: 21300000, guid: d7beea4152e48964180e680d7befeb19, type: 3}
+  EstadoMovimiento: {fileID: 21300000, guid: 933ad04f735e19844bc708de6ab34b4e, type: 3}
+  Imagen_titulo: {fileID: 21300000, guid: 7b758583fb5b70d4fb6e6708c08d99e7, type: 3}
+  Informacion_recurso: {fileID: 0}
+  AudioControler: {fileID: 0}
+  AudioRecurso: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 101672}
+  m_IsPrefabParent: 1

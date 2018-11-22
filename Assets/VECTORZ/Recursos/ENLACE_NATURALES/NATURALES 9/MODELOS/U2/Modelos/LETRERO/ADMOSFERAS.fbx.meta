@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 7ec2d56d4b90ce343ad98543656e45e7
+timeCreated: 1462567691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle_Circle.005
+    100004: Cube.000_Cube.002
+    100006: Cube.001_Cube.003
+    100008: Cube.002_Cube.004
+    100010: Cube.003_Cube.005
+    100012: Cube.004_Cube.006
+    100014: dish_etc_Megellan.001
+    100016: ISS_Untitled
+    100018: Mesh339_Componente_10_15_Group79_Group78_Group1_Model
+    100020: Plane
+    100022: Plane.001
+    100024: Plane.002
+    100026: Plane.003
+    100028: Plane.004_Plane.005
+    100030: spaceshutt_spaceshutt.001
+    100032: Sphere
+    100034: Sphere.001_Sphere.002
+    100036: Sphere.003_Sphere.004
+    100038: Sphere.004_Sphere.005
+    400000: //RootNode
+    400002: Circle_Circle.005
+    400004: Cube.000_Cube.002
+    400006: Cube.001_Cube.003
+    400008: Cube.002_Cube.004
+    400010: Cube.003_Cube.005
+    400012: Cube.004_Cube.006
+    400014: dish_etc_Megellan.001
+    400016: ISS_Untitled
+    400018: Mesh339_Componente_10_15_Group79_Group78_Group1_Model
+    400020: Plane
+    400022: Plane.001
+    400024: Plane.002
+    400026: Plane.003
+    400028: Plane.004_Plane.005
+    400030: spaceshutt_spaceshutt.001
+    400032: Sphere
+    400034: Sphere.001_Sphere.002
+    400036: Sphere.003_Sphere.004
+    400038: Sphere.004_Sphere.005
+    2300000: Circle_Circle.005
+    2300002: Cube.000_Cube.002
+    2300004: Cube.001_Cube.003
+    2300006: Cube.002_Cube.004
+    2300008: Cube.003_Cube.005
+    2300010: Cube.004_Cube.006
+    2300012: dish_etc_Megellan.001
+    2300014: ISS_Untitled
+    2300016: Mesh339_Componente_10_15_Group79_Group78_Group1_Model
+    2300018: Plane
+    2300020: Plane.001
+    2300022: Plane.002
+    2300024: Plane.003
+    2300026: Plane.004_Plane.005
+    2300028: spaceshutt_spaceshutt.001
+    2300030: Sphere
+    2300032: Sphere.001_Sphere.002
+    2300034: Sphere.003_Sphere.004
+    2300036: Sphere.004_Sphere.005
+    3300000: Circle_Circle.005
+    3300002: Cube.000_Cube.002
+    3300004: Cube.001_Cube.003
+    3300006: Cube.002_Cube.004
+    3300008: Cube.003_Cube.005
+    3300010: Cube.004_Cube.006
+    3300012: dish_etc_Megellan.001
+    3300014: ISS_Untitled
+    3300016: Mesh339_Componente_10_15_Group79_Group78_Group1_Model
+    3300018: Plane
+    3300020: Plane.001
+    3300022: Plane.002
+    3300024: Plane.003
+    3300026: Plane.004_Plane.005
+    3300028: spaceshutt_spaceshutt.001
+    3300030: Sphere
+    3300032: Sphere.001_Sphere.002
+    3300034: Sphere.003_Sphere.004
+    3300036: Sphere.004_Sphere.005
+    4300000: Mesh339_Componente_10_15_Group79_Group78_Group1_Model
+    4300002: Cube.004_Cube.006
+    4300004: dish_etc_Megellan.001
+    4300006: Plane.004_Plane.005
+    4300008: Cube.002_Cube.004
+    4300010: Plane.001
+    4300012: Circle_Circle.005
+    4300014: Sphere.004_Sphere.005
+    4300016: Plane.002
+    4300018: Cube.001_Cube.003
+    4300020: Plane.003
+    4300022: Sphere.001_Sphere.002
+    4300024: Sphere
+    4300026: Cube.003_Cube.005
+    4300028: spaceshutt_spaceshutt.001
+    4300030: Cube.000_Cube.002
+    4300032: ISS_Untitled
+    4300034: Sphere.003_Sphere.004
+    4300036: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 689003eede42e6344a180fb723a1175a
+timeCreated: 1478206878
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CABEZA_Esfera.001_CARA
+    100002: CABEZA_Esfera.001_LUZ
+    100004: CORNETA_Cubo.001_MANOS
+    100006: CUERPO_Esfera.003_CORAZA
+    100008: CUERPO_Esfera.003_INTERNO
+    100010: LUCES_Esfera.009_LUZ
+    100012: LUZ_SUPERIOS_Esfera.005_LENTE
+    100014: MANOS_Cubo.002_INTERNO
+    100016: MANOS_Cubo.002_MANOS
+    100018: OJOS_Esfera.000_OJOS
+    100020: //RootNode
+    400000: CABEZA_Esfera.001_CARA
+    400002: CABEZA_Esfera.001_LUZ
+    400004: CORNETA_Cubo.001_MANOS
+    400006: CUERPO_Esfera.003_CORAZA
+    400008: CUERPO_Esfera.003_INTERNO
+    400010: LUCES_Esfera.009_LUZ
+    400012: LUZ_SUPERIOS_Esfera.005_LENTE
+    400014: MANOS_Cubo.002_INTERNO
+    400016: MANOS_Cubo.002_MANOS
+    400018: OJOS_Esfera.000_OJOS
+    400020: //RootNode
+    2300000: CABEZA_Esfera.001_CARA
+    2300002: CABEZA_Esfera.001_LUZ
+    2300004: CORNETA_Cubo.001_MANOS
+    2300006: CUERPO_Esfera.003_CORAZA
+    2300008: CUERPO_Esfera.003_INTERNO
+    2300010: LUCES_Esfera.009_LUZ
+    2300012: LUZ_SUPERIOS_Esfera.005_LENTE
+    2300014: MANOS_Cubo.002_INTERNO
+    2300016: MANOS_Cubo.002_MANOS
+    2300018: OJOS_Esfera.000_OJOS
+    3300000: CABEZA_Esfera.001_CARA
+    3300002: CABEZA_Esfera.001_LUZ
+    3300004: CORNETA_Cubo.001_MANOS
+    3300006: CUERPO_Esfera.003_CORAZA
+    3300008: CUERPO_Esfera.003_INTERNO
+    3300010: LUCES_Esfera.009_LUZ
+    3300012: LUZ_SUPERIOS_Esfera.005_LENTE
+    3300014: MANOS_Cubo.002_INTERNO
+    3300016: MANOS_Cubo.002_MANOS
+    3300018: OJOS_Esfera.000_OJOS
+    4300000: CABEZA_Esfera.001_CARA
+    4300002: CABEZA_Esfera.001_LUZ
+    4300004: CORNETA_Cubo.001_MANOS
+    4300006: CUERPO_Esfera.003_CORAZA
+    4300008: CUERPO_Esfera.003_INTERNO
+    4300010: LUCES_Esfera.009_LUZ
+    4300012: LUZ_SUPERIOS_Esfera.005_LENTE
+    4300014: MANOS_Cubo.002_INTERNO
+    4300016: MANOS_Cubo.002_MANOS
+    4300018: OJOS_Esfera.000_OJOS
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

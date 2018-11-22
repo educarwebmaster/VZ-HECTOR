@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: daf89b3c1943d85429174642140f75ec
+timeCreated: 1466707345
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "Curva_B\xE9zier_Mesh.007_INTESTINODELGADO"
+    100002: ESTOMAGO_ESTOMAGO_ESTOMAGO
+    100004: mesh000_mesh000_HIGADO
+    100006: mesh004_mesh004_SUPERIOR
+    100008: mesh004_mesh004_SUPERIOR_intestino2.png
+    100010: Plane.003_Plane.017_LETREROS
+    100012: Plane.011_Plane.025_FLECHA
+    100014: python_sistema_digestivo-base_sistema_digestivo-base.001_young_caucasian_female_sweat.001
+    100016: python_sistema_digestivo-highpolyeyes_sistema_digestivo-highpolyeyes.001_Eye_brown.001
+    100018: //RootNode
+    100020: Sphere.033_Sphere.033_None
+    100022: Text_Mesh.006_LETRAS
+    100024: ZBrush_defualt_group.001_ZBrush_defualt_group.001_INTESTINOGRUESO
+    400000: "Curva_B\xE9zier_Mesh.007_INTESTINODELGADO"
+    400002: ESTOMAGO_ESTOMAGO_ESTOMAGO
+    400004: mesh000_mesh000_HIGADO
+    400006: mesh004_mesh004_SUPERIOR
+    400008: mesh004_mesh004_SUPERIOR_intestino2.png
+    400010: Plane.003_Plane.017_LETREROS
+    400012: Plane.011_Plane.025_FLECHA
+    400014: python_sistema_digestivo-base_sistema_digestivo-base.001_young_caucasian_female_sweat.001
+    400016: python_sistema_digestivo-highpolyeyes_sistema_digestivo-highpolyeyes.001_Eye_brown.001
+    400018: //RootNode
+    400020: Sphere.033_Sphere.033_None
+    400022: Text_Mesh.006_LETRAS
+    400024: ZBrush_defualt_group.001_ZBrush_defualt_group.001_INTESTINOGRUESO
+    2300000: "Curva_B\xE9zier_Mesh.007_INTESTINODELGADO"
+    2300002: ESTOMAGO_ESTOMAGO_ESTOMAGO
+    2300004: mesh000_mesh000_HIGADO
+    2300006: mesh004_mesh004_SUPERIOR
+    2300008: mesh004_mesh004_SUPERIOR_intestino2.png
+    2300010: Plane.003_Plane.017_LETREROS
+    2300012: Plane.011_Plane.025_FLECHA
+    2300014: python_sistema_digestivo-base_sistema_digestivo-base.001_young_caucasian_female_sweat.001
+    2300016: python_sistema_digestivo-highpolyeyes_sistema_digestivo-highpolyeyes.001_Eye_brown.001
+    2300018: Sphere.033_Sphere.033_None
+    2300020: Text_Mesh.006_LETRAS
+    2300022: ZBrush_defualt_group.001_ZBrush_defualt_group.001_INTESTINOGRUESO
+    3300000: "Curva_B\xE9zier_Mesh.007_INTESTINODELGADO"
+    3300002: ESTOMAGO_ESTOMAGO_ESTOMAGO
+    3300004: mesh000_mesh000_HIGADO
+    3300006: mesh004_mesh004_SUPERIOR
+    3300008: mesh004_mesh004_SUPERIOR_intestino2.png
+    3300010: Plane.003_Plane.017_LETREROS
+    3300012: Plane.011_Plane.025_FLECHA
+    3300014: python_sistema_digestivo-base_sistema_digestivo-base.001_young_caucasian_female_sweat.001
+    3300016: python_sistema_digestivo-highpolyeyes_sistema_digestivo-highpolyeyes.001_Eye_brown.001
+    3300018: Sphere.033_Sphere.033_None
+    3300020: Text_Mesh.006_LETRAS
+    3300022: ZBrush_defualt_group.001_ZBrush_defualt_group.001_INTESTINOGRUESO
+    4300000: "Curva_B\xE9zier_Mesh.007_INTESTINODELGADO"
+    4300002: ESTOMAGO_ESTOMAGO_ESTOMAGO
+    4300004: mesh000_mesh000_HIGADO
+    4300006: mesh004_mesh004_SUPERIOR
+    4300008: mesh004_mesh004_SUPERIOR_intestino2.png
+    4300010: Plane.003_Plane.017_LETREROS
+    4300012: Plane.011_Plane.025_FLECHA
+    4300014: python_sistema_digestivo-base_sistema_digestivo-base.001_young_caucasian_female_sweat.001
+    4300016: python_sistema_digestivo-highpolyeyes_sistema_digestivo-highpolyeyes.001_Eye_brown.001
+    4300018: Sphere.033_Sphere.033_None
+    4300020: Text_Mesh.006_LETRAS
+    4300022: ZBrush_defualt_group.001_ZBrush_defualt_group.001_INTESTINOGRUESO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: e042820399fbf424dacb9c856971228a
+timeCreated: 1463000776
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: der_brazo
+    100002: der_codo
+    100004: der_dedo
+    100006: der_dedo_end
+    100008: der_mano
+    100010: der_mano_end
+    100012: der_pie
+    100014: der_pierna
+    100016: der_rodilla
+    100018: der_tobillo
+    100020: //RootNode
+    100022: izq_brazo
+    100024: izq_codo
+    100026: izq_dedo
+    100028: izq_dedo_end
+    100030: izq_mano
+    100032: izq_mano_end
+    100034: izq_pie
+    100036: izq_pierna
+    100038: izq_rodilla
+    100040: izq_tobillo
+    100042: joint11
+    100044: joint12
+    100046: joint13
+    100048: joint14
+    100050: joint15
+    100052: joint16
+    100054: joint17
+    100056: joint18
+    100058: joint18_end
+    100060: joint6
+    100062: joint7
+    100064: polySurface100
+    100066: polySurface101
+    100068: polySurface102
+    100070: polySurface103
+    100072: polySurface104
+    100074: polySurface105
+    100076: polySurface89
+    100078: polySurface90
+    100080: polySurface91
+    100082: polySurface92
+    100084: polySurface93
+    100086: polySurface94
+    100088: polySurface95
+    100090: polySurface96
+    100092: polySurface97
+    100094: polySurface98
+    100096: polySurface98_MeshPart0
+    100098: polySurface98_MeshPart1
+    100100: polySurface99
+    100102: rigging
+    400000: der_brazo
+    400002: der_codo
+    400004: der_dedo
+    400006: der_dedo_end
+    400008: der_mano
+    400010: der_mano_end
+    400012: der_pie
+    400014: der_pierna
+    400016: der_rodilla
+    400018: der_tobillo
+    400020: //RootNode
+    400022: izq_brazo
+    400024: izq_codo
+    400026: izq_dedo
+    400028: izq_dedo_end
+    400030: izq_mano
+    400032: izq_mano_end
+    400034: izq_pie
+    400036: izq_pierna
+    400038: izq_rodilla
+    400040: izq_tobillo
+    400042: joint11
+    400044: joint12
+    400046: joint13
+    400048: joint14
+    400050: joint15
+    400052: joint16
+    400054: joint17
+    400056: joint18
+    400058: joint18_end
+    400060: joint6
+    400062: joint7
+    400064: polySurface100
+    400066: polySurface101
+    400068: polySurface102
+    400070: polySurface103
+    400072: polySurface104
+    400074: polySurface105
+    400076: polySurface89
+    400078: polySurface90
+    400080: polySurface91
+    400082: polySurface92
+    400084: polySurface93
+    400086: polySurface94
+    400088: polySurface95
+    400090: polySurface96
+    400092: polySurface97
+    400094: polySurface98
+    400096: polySurface98_MeshPart0
+    400098: polySurface98_MeshPart1
+    400100: polySurface99
+    400102: rigging
+    4300000: polySurface99
+    4300002: polySurface101
+    4300004: polySurface89
+    4300006: polySurface94
+    4300008: polySurface95
+    4300010: polySurface90
+    4300012: polySurface96
+    4300014: polySurface98_MeshPart0
+    4300016: polySurface98_MeshPart1
+    4300018: polySurface104
+    4300020: polySurface97
+    4300022: polySurface103
+    4300024: polySurface91
+    4300026: polySurface102
+    4300028: polySurface105
+    4300030: polySurface93
+    4300032: polySurface92
+    4300034: polySurface100
+    7400000: Scene
+    9500000: //RootNode
+    13700000: polySurface100
+    13700002: polySurface101
+    13700004: polySurface102
+    13700006: polySurface103
+    13700008: polySurface104
+    13700010: polySurface105
+    13700012: polySurface89
+    13700014: polySurface90
+    13700016: polySurface91
+    13700018: polySurface92
+    13700020: polySurface93
+    13700022: polySurface94
+    13700024: polySurface95
+    13700026: polySurface96
+    13700028: polySurface97
+    13700030: polySurface98_MeshPart0
+    13700032: polySurface98_MeshPart1
+    13700034: polySurface99
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

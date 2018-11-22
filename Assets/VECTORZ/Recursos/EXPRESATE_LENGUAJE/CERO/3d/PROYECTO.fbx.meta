@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 985dcea5731208f449365f0b3861ae7c
+timeCreated: 1519247305
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_006
+    100004: Bone_007
+    100006: Bone_008
+    100008: Bone_009
+    100010: Bone_010
+    100012: Colmillos
+    100014: Elefante
+    100016: Esqueleto
+    100018: Leon
+    100020: Melena
+    100022: Mono
+    100024: Ojos-elefante
+    100026: //RootNode
+    100028: Serpiente
+    100030: Tierra
+    100032: Tigre
+    100034: Bone_002
+    100036: Esfera
+    100038: Group25841
+    400000: Bone
+    400002: Bone_006
+    400004: Bone_007
+    400006: Bone_008
+    400008: Bone_009
+    400010: Bone_010
+    400012: Colmillos
+    400014: Elefante
+    400016: Esqueleto
+    400018: Leon
+    400020: Melena
+    400022: Mono
+    400024: Ojos-elefante
+    400026: //RootNode
+    400028: Serpiente
+    400030: Tierra
+    400032: Tigre
+    400034: Bone_002
+    400036: Esfera
+    400038: Group25841
+    4300000: Mono
+    4300002: Tigre
+    4300004: Melena
+    4300006: Leon
+    4300008: Tierra
+    4300010: Serpiente
+    4300012: Elefante
+    4300014: Ojos-elefante
+    4300016: Colmillos
+    4300018: Esfera
+    4300020: Group25841
+    7400000: Quieto
+    7400002: AbrirLeon
+    7400004: CerrarLeon
+    7400006: AbrirTigre
+    7400008: CerrarTigre
+    7400010: AbrirElefante
+    7400012: CerrarElefante
+    7400014: AbrirBuho
+    7400016: CerrarBuho
+    7400018: AbrirSimio
+    7400020: CerrarSimio
+    7400022: AbrirSerpiente
+    7400024: CerrarSerpiente
+    9500000: //RootNode
+    13700000: Colmillos
+    13700002: Elefante
+    13700004: Leon
+    13700006: Melena
+    13700008: Mono
+    13700010: Ojos-elefante
+    13700012: Serpiente
+    13700014: Tierra
+    13700016: Tigre
+    13700018: Esfera
+    13700020: Group25841
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Quieto
+      takeName: EsqueletoAction
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AbrirLeon
+      takeName: EsqueletoAction
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CerrarLeon
+      takeName: EsqueletoAction
+      firstFrame: 8
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AbrirTigre
+      takeName: EsqueletoAction
+      firstFrame: 16
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CerrarTigre
+      takeName: EsqueletoAction
+      firstFrame: 27
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AbrirElefante
+      takeName: EsqueletoAction
+      firstFrame: 35
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CerrarElefante
+      takeName: EsqueletoAction
+      firstFrame: 45
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AbrirBuho
+      takeName: EsqueletoAction
+      firstFrame: 52
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CerrarBuho
+      takeName: EsqueletoAction
+      firstFrame: 62
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AbrirSimio
+      takeName: EsqueletoAction
+      firstFrame: 67
+      lastFrame: 76
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CerrarSimio
+      takeName: EsqueletoAction
+      firstFrame: 76
+      lastFrame: 83
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AbrirSerpiente
+      takeName: EsqueletoAction
+      firstFrame: 83
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CerrarSerpiente
+      takeName: EsqueletoAction
+      firstFrame: 91
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Colmillos
+        weight: 1
+      - path: Elefante
+        weight: 1
+      - path: Esfera
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_006
+        weight: 1
+      - path: Esqueleto/Bone/Bone_007
+        weight: 1
+      - path: Esqueleto/Bone/Bone_008
+        weight: 1
+      - path: Esqueleto/Bone/Bone_009
+        weight: 1
+      - path: Esqueleto/Bone/Bone_010
+        weight: 1
+      - path: Group25841
+        weight: 1
+      - path: Leon
+        weight: 1
+      - path: Melena
+        weight: 1
+      - path: Mono
+        weight: 1
+      - path: Ojos-elefante
+        weight: 1
+      - path: Serpiente
+        weight: 1
+      - path: Tierra
+        weight: 1
+      - path: Tigre
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

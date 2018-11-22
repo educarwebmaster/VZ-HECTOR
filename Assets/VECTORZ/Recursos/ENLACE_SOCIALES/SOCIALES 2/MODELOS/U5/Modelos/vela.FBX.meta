@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: e80116b4f8564914684054a5bec97fb2
+timeCreated: 1461687530
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Cone004
+    100004: Cylinder006
+    100006: Line006
+    100008: Plane004
+    100010: Plane005
+    100012: Text001
+    100014: Text002
+    100016: Text003
+    100018: Text004
+    100020: Text005
+    100022: Text006
+    100024: Text007
+    100026: Text008
+    100028: Text009
+    100030: Text010
+    100032: Tube001
+    100034: //RootNode
+    400000: Box002
+    400002: Cone004
+    400004: Cylinder006
+    400006: Line006
+    400008: Plane004
+    400010: Plane005
+    400012: Text001
+    400014: Text002
+    400016: Text003
+    400018: Text004
+    400020: Text005
+    400022: Text006
+    400024: Text007
+    400026: Text008
+    400028: Text009
+    400030: Text010
+    400032: Tube001
+    400034: //RootNode
+    2300000: Box002
+    2300002: Cone004
+    2300004: Cylinder006
+    2300006: Line006
+    2300008: Plane004
+    2300010: Plane005
+    2300012: Text001
+    2300014: Text002
+    2300016: Text003
+    2300018: Text004
+    2300020: Text005
+    2300022: Text006
+    2300024: Text007
+    2300026: Text008
+    2300028: Text009
+    2300030: Text010
+    2300032: Tube001
+    3300000: Box002
+    3300002: Cone004
+    3300004: Cylinder006
+    3300006: Line006
+    3300008: Plane004
+    3300010: Plane005
+    3300012: Text001
+    3300014: Text002
+    3300016: Text003
+    3300018: Text004
+    3300020: Text005
+    3300022: Text006
+    3300024: Text007
+    3300026: Text008
+    3300028: Text009
+    3300030: Text010
+    3300032: Tube001
+    4300000: Cylinder006
+    4300002: Cone004
+    4300004: Box002
+    4300006: Tube001
+    4300008: Plane004
+    4300010: Line006
+    4300012: Text001
+    4300014: Text002
+    4300016: Text003
+    4300018: Text004
+    4300020: Text005
+    4300022: Text006
+    4300024: Text007
+    4300026: Text008
+    4300028: Text009
+    4300030: Text010
+    4300032: Plane005
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Cone004
+        weight: 1
+      - path: Cylinder006
+        weight: 1
+      - path: Line006
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Text001
+        weight: 1
+      - path: Text002
+        weight: 1
+      - path: Text003
+        weight: 1
+      - path: Text004
+        weight: 1
+      - path: Text005
+        weight: 1
+      - path: Text006
+        weight: 1
+      - path: Text007
+        weight: 1
+      - path: Text008
+        weight: 1
+      - path: Text009
+        weight: 1
+      - path: Text010
+        weight: 1
+      - path: Tube001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

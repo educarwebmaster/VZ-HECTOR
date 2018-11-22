@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 016c9722326696b429abb5122ba3c577
+timeCreated: 1460473703
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anular1_der
+    100002: anular1_izq
+    100004: anular2_der
+    100006: anular2_izq
+    100008: anular3_der
+    100010: anular3_izq
+    100012: back
+    100014: bottom1
+    100016: //RootNode
+    100018: chico
+    100020: codo_der
+    100022: codo_izq
+    100024: corazon1_der
+    100026: corazon1_izq
+    100028: corazon2_der
+    100030: corazon2_izq
+    100032: corazon3_der
+    100034: corazon3_izq
+    100036: ctrl_anular_der
+    100038: ctrl_anular_izq
+    100040: ctrl_base
+    100042: ctrl_columna
+    100044: ctrl_corazon_der
+    100046: ctrl_corazon_izq
+    100048: ctrl_cuello
+    100050: ctrl_indice_der
+    100052: ctrl_indice_izq
+    100054: ctrl_mano_der
+    100056: ctrl_mano_izq
+    100058: ctrl_menique_der
+    100060: "ctrl_me\xF1ique_izq"
+    100062: ctrl_pie_der
+    100064: ctrl_pie_izq
+    100066: ctrl_pulgar_der
+    100068: ctrl_pulgar_izq
+    100070: end_der
+    100072: end_izq
+    100074: hombro_der
+    100076: hombro_izq
+    100078: ikHandlebrazo_der
+    100080: ikHandlebrazo_izq
+    100082: ikHandlepierna_der
+    100084: ikHandlepierna_izq
+    100086: ikHandlepierna_izq1
+    100088: indice1_der
+    100090: indice1_izq
+    100092: indice2_der
+    100094: indice2_izq
+    100096: indice3_der
+    100098: indice3_izq
+    100100: joint1
+    100102: joint2
+    100104: joint3
+    100106: joint5
+    100108: joint_cuello
+    100110: left
+    100112: left1
+    100114: left2
+    100116: locomotion
+    100118: locomotion 1
+    100120: locomotion 2
+    100122: mano_der
+    100124: mano_izq
+    100126: menique1_der
+    100128: menique1_izq
+    100130: menique2_der
+    100132: menique2_izq
+    100134: menique3_der
+    100136: menique3_izq
+    100138: pCube11
+    100140: pCube7
+    100142: pCube8
+    100144: pCube9
+    100146: pelvis_der
+    100148: pelvis_izq
+    100150: pie_der
+    100152: pie_izq
+    100154: polySurface13
+    100156: polySurface17
+    100158: polySurface18
+    100160: polySurface27
+    100162: polySurface28
+    100164: polySurface29
+    100166: polySurface3
+    100168: polySurface30
+    100170: polySurface31
+    100172: polySurface32
+    100174: polySurface33
+    100176: polySurface34
+    100178: polySurface36
+    100180: polySurface37
+    100182: polySurface4
+    100184: pPlane1
+    100186: pSphere2
+    100188: pSphere3
+    100190: pSphere5
+    100192: pulgar1_der
+    100194: pulgar1_izq
+    100196: pulgar2_der
+    100198: pulgar2_izq
+    100200: pulgar3_der
+    100202: pulgar3_izq
+    100204: right1
+    100206: rodilla_der
+    100208: rodilla_izq
+    100210: top1
+    100212: transform1
+    100214: transform2
+    100216: transform3
+    400000: anular1_der
+    400002: anular1_izq
+    400004: anular2_der
+    400006: anular2_izq
+    400008: anular3_der
+    400010: anular3_izq
+    400012: back
+    400014: bottom1
+    400016: //RootNode
+    400018: chico
+    400020: codo_der
+    400022: codo_izq
+    400024: corazon1_der
+    400026: corazon1_izq
+    400028: corazon2_der
+    400030: corazon2_izq
+    400032: corazon3_der
+    400034: corazon3_izq
+    400036: ctrl_anular_der
+    400038: ctrl_anular_izq
+    400040: ctrl_base
+    400042: ctrl_columna
+    400044: ctrl_corazon_der
+    400046: ctrl_corazon_izq
+    400048: ctrl_cuello
+    400050: ctrl_indice_der
+    400052: ctrl_indice_izq
+    400054: ctrl_mano_der
+    400056: ctrl_mano_izq
+    400058: ctrl_menique_der
+    400060: "ctrl_me\xF1ique_izq"
+    400062: ctrl_pie_der
+    400064: ctrl_pie_izq
+    400066: ctrl_pulgar_der
+    400068: ctrl_pulgar_izq
+    400070: end_der
+    400072: end_izq
+    400074: hombro_der
+    400076: hombro_izq
+    400078: ikHandlebrazo_der
+    400080: ikHandlebrazo_izq
+    400082: ikHandlepierna_der
+    400084: ikHandlepierna_izq
+    400086: ikHandlepierna_izq1
+    400088: indice1_der
+    400090: indice1_izq
+    400092: indice2_der
+    400094: indice2_izq
+    400096: indice3_der
+    400098: indice3_izq
+    400100: joint1
+    400102: joint2
+    400104: joint3
+    400106: joint5
+    400108: joint_cuello
+    400110: left
+    400112: left1
+    400114: left2
+    400116: locomotion
+    400118: locomotion 1
+    400120: locomotion 2
+    400122: mano_der
+    400124: mano_izq
+    400126: menique1_der
+    400128: menique1_izq
+    400130: menique2_der
+    400132: menique2_izq
+    400134: menique3_der
+    400136: menique3_izq
+    400138: pCube11
+    400140: pCube7
+    400142: pCube8
+    400144: pCube9
+    400146: pelvis_der
+    400148: pelvis_izq
+    400150: pie_der
+    400152: pie_izq
+    400154: polySurface13
+    400156: polySurface17
+    400158: polySurface18
+    400160: polySurface27
+    400162: polySurface28
+    400164: polySurface29
+    400166: polySurface3
+    400168: polySurface30
+    400170: polySurface31
+    400172: polySurface32
+    400174: polySurface33
+    400176: polySurface34
+    400178: polySurface36
+    400180: polySurface37
+    400182: polySurface4
+    400184: pPlane1
+    400186: pSphere2
+    400188: pSphere3
+    400190: pSphere5
+    400192: pulgar1_der
+    400194: pulgar1_izq
+    400196: pulgar2_der
+    400198: pulgar2_izq
+    400200: pulgar3_der
+    400202: pulgar3_izq
+    400204: right1
+    400206: rodilla_der
+    400208: rodilla_izq
+    400210: top1
+    400212: transform1
+    400214: transform2
+    400216: transform3
+    2300000: pCube8
+    2300002: pCube9
+    2300004: pPlane1
+    3300000: pCube8
+    3300002: pCube9
+    3300004: pPlane1
+    4300000: chico
+    4300002: polySurface3
+    4300004: polySurface27
+    4300006: polySurface29
+    4300008: polySurface30
+    4300010: polySurface18
+    4300012: polySurface28
+    4300014: polySurface31
+    4300016: polySurface34
+    4300018: polySurface32
+    4300020: polySurface33
+    4300022: pCube9
+    4300024: pCube8
+    4300026: pPlane1
+    7400000: 1
+    9500000: //RootNode
+    13700000: chico
+    13700002: polySurface18
+    13700004: polySurface27
+    13700006: polySurface28
+    13700008: polySurface29
+    13700010: polySurface3
+    13700012: polySurface30
+    13700014: polySurface31
+    13700016: polySurface32
+    13700018: polySurface33
+    13700020: polySurface34
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom1
+        weight: 1
+      - path: ikHandlebrazo_der
+        weight: 1
+      - path: ikHandlebrazo_izq
+        weight: 1
+      - path: ikHandlepierna_izq
+        weight: 1
+      - path: left
+        weight: 1
+      - path: left1
+        weight: 1
+      - path: left2
+        weight: 1
+      - path: locomotion
+        weight: 1
+      - path: locomotion/locomotion 1
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/anular1_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/anular1_der/anular2_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/anular1_der/anular2_der/anular3_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/corazon1_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/corazon1_der/corazon2_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/corazon1_der/corazon2_der/corazon3_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/indice1_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/indice1_der/indice2_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/indice1_der/indice2_der/indice3_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/menique1_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/menique1_der/menique2_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/menique1_der/menique2_der/menique3_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/pulgar1_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/pulgar1_der/pulgar2_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_der/codo_der/mano_der/pulgar1_der/pulgar2_der/pulgar3_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/anular1_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/anular1_izq/anular2_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/anular1_izq/anular2_izq/anular3_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/corazon1_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/corazon1_izq/corazon2_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/corazon1_izq/corazon2_izq/corazon3_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/indice1_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/indice1_izq/indice2_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/indice1_izq/indice2_izq/indice3_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/menique1_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/menique1_izq/menique2_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/menique1_izq/menique2_izq/menique3_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/pulgar1_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/pulgar1_izq/pulgar2_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/hombro_izq/codo_izq/mano_izq/pulgar1_izq/pulgar2_izq/pulgar3_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/joint_cuello
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/joint2/joint3/joint_cuello/joint5
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_der/rodilla_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_der/rodilla_der/pie_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_der/rodilla_der/pie_der/end_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_izq/rodilla_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_izq/rodilla_izq/pie_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_columna/joint1/pelvis_izq/rodilla_izq/pie_izq/end_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_cuello
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der/ctrl_anular_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der/ctrl_corazon_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der/ctrl_indice_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der/ctrl_menique_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der/ctrl_pulgar_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_der/pCube8
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq/ctrl_anular_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq/ctrl_corazon_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq/ctrl_indice_izq
+        weight: 1
+      - path: "locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq/ctrl_me\xF1ique_izq"
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq/ctrl_pulgar_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_mano_izq/pCube9
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_pie_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_pie_der/ikHandlepierna_der
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_pie_izq
+        weight: 1
+      - path: locomotion/locomotion 1/locomotion 2/ctrl_base/ctrl_pie_izq/ikHandlepierna_izq1
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube7/polySurface4
+        weight: 1
+      - path: pCube7/polySurface4/polySurface13
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface36
+        weight: 1
+      - path: pCube11/polySurface36/transform3
+        weight: 1
+      - path: pCube11/polySurface37
+        weight: 1
+      - path: pCube11/polySurface37/transform2
+        weight: 1
+      - path: pCube11/transform1
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/chico
+        weight: 1
+      - path: polySurface17/chico/polySurface3
+        weight: 1
+      - path: polySurface17/chico/polySurface18
+        weight: 1
+      - path: polySurface17/chico/polySurface27
+        weight: 1
+      - path: polySurface17/chico/polySurface28
+        weight: 1
+      - path: polySurface17/chico/polySurface29
+        weight: 1
+      - path: polySurface17/chico/polySurface30
+        weight: 1
+      - path: polySurface17/chico/polySurface31
+        weight: 1
+      - path: polySurface17/chico/polySurface32
+        weight: 1
+      - path: polySurface17/chico/polySurface33
+        weight: 1
+      - path: polySurface17/chico/polySurface34
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere3
+        weight: 1
+      - path: pSphere5
+        weight: 1
+      - path: right1
+        weight: 1
+      - path: top1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

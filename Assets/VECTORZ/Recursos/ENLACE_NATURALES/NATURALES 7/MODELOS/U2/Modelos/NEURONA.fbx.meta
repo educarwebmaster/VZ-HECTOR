@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 9bba9b10e36082d47aa082ae3f4adefb
+timeCreated: 1462197464
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone 1
+    100004: Bone 2
+    100006: Bone.001
+    100008: Bone.001 1
+    100010: Bone.001 2
+    100012: Bone.002
+    100014: Bone.002 1
+    100016: Bone.002 2
+    100018: Bone.003
+    100020: Bone.003 1
+    100022: Bone.003 2
+    100024: Bone.004
+    100026: Bone.004 1
+    100028: Bone.004 2
+    100030: Bone.005
+    100032: Bone.005 1
+    100034: Bone.005 2
+    100036: Bone.006
+    100038: Bone.006 1
+    100040: Bone.006 2
+    100042: Bone.007
+    100044: Bone.007 1
+    100046: Bone.007 2
+    100048: Bone.008
+    100050: Bone.008 1
+    100052: Bone.008 2
+    100054: Bone.008_end
+    100056: Bone.008_end 1
+    100058: Bone.008_end 2
+    100060: Bone.009
+    100062: Bone.009 1
+    100064: Bone.009 2
+    100066: Bone.010
+    100068: Bone.010 1
+    100070: Bone.010 2
+    100072: Bone.010_end
+    100074: Bone.010_end 1
+    100076: Bone.010_end 2
+    100078: Bone.011
+    100080: Bone.011 1
+    100082: Bone.011 2
+    100084: Bone.012
+    100086: Bone.012 1
+    100088: Bone.012 2
+    100090: Bone.012_end
+    100092: Bone.012_end 1
+    100094: Bone.012_end 2
+    100096: Bone.013
+    100098: Bone.013 1
+    100100: Bone.013 2
+    100102: Bone.014
+    100104: Bone.014 1
+    100106: Bone.014 2
+    100108: Bone.014_end
+    100110: Bone.014_end 1
+    100112: Bone.014_end 2
+    100114: Bone.017
+    100116: Bone.017 1
+    100118: Bone.017 2
+    100120: Bone.018
+    100122: Bone.018 1
+    100124: Bone.018 2
+    100126: Bone.018_end
+    100128: Bone.018_end 1
+    100130: Bone.018_end 2
+    100132: Cubo.000
+    100134: Cubo.001
+    100136: Cubo.006
+    100138: Esfera
+    100140: Esfera.001
+    100142: Esfera.001_MeshPart0
+    100144: Esfera.001_MeshPart1
+    100146: Esfera.002
+    100148: Esfera.002_MeshPart0
+    100150: Esfera.002_MeshPart1
+    100152: Esfera.003
+    100154: Esfera.004
+    100156: Esfera.005
+    100158: Esfera.005_MeshPart0
+    100160: Esfera.005_MeshPart1
+    100162: Esqueleto
+    100164: Esqueleto.001
+    100166: Esqueleto.002
+    100168: //RootNode
+    100170: Cubo
+    100172: Cubo.002
+    100174: Cubo.003
+    100176: Esfera.006
+    100178: Esfera.007
+    100180: Texto
+    100182: Texto.001
+    100184: Texto.002
+    400000: Bone
+    400002: Bone 1
+    400004: Bone 2
+    400006: Bone.001
+    400008: Bone.001 1
+    400010: Bone.001 2
+    400012: Bone.002
+    400014: Bone.002 1
+    400016: Bone.002 2
+    400018: Bone.003
+    400020: Bone.003 1
+    400022: Bone.003 2
+    400024: Bone.004
+    400026: Bone.004 1
+    400028: Bone.004 2
+    400030: Bone.005
+    400032: Bone.005 1
+    400034: Bone.005 2
+    400036: Bone.006
+    400038: Bone.006 1
+    400040: Bone.006 2
+    400042: Bone.007
+    400044: Bone.007 1
+    400046: Bone.007 2
+    400048: Bone.008
+    400050: Bone.008 1
+    400052: Bone.008 2
+    400054: Bone.008_end
+    400056: Bone.008_end 1
+    400058: Bone.008_end 2
+    400060: Bone.009
+    400062: Bone.009 1
+    400064: Bone.009 2
+    400066: Bone.010
+    400068: Bone.010 1
+    400070: Bone.010 2
+    400072: Bone.010_end
+    400074: Bone.010_end 1
+    400076: Bone.010_end 2
+    400078: Bone.011
+    400080: Bone.011 1
+    400082: Bone.011 2
+    400084: Bone.012
+    400086: Bone.012 1
+    400088: Bone.012 2
+    400090: Bone.012_end
+    400092: Bone.012_end 1
+    400094: Bone.012_end 2
+    400096: Bone.013
+    400098: Bone.013 1
+    400100: Bone.013 2
+    400102: Bone.014
+    400104: Bone.014 1
+    400106: Bone.014 2
+    400108: Bone.014_end
+    400110: Bone.014_end 1
+    400112: Bone.014_end 2
+    400114: Bone.017
+    400116: Bone.017 1
+    400118: Bone.017 2
+    400120: Bone.018
+    400122: Bone.018 1
+    400124: Bone.018 2
+    400126: Bone.018_end
+    400128: Bone.018_end 1
+    400130: Bone.018_end 2
+    400132: Cubo.000
+    400134: Cubo.001
+    400136: Cubo.006
+    400138: Esfera
+    400140: Esfera.001
+    400142: Esfera.001_MeshPart0
+    400144: Esfera.001_MeshPart1
+    400146: Esfera.002
+    400148: Esfera.002_MeshPart0
+    400150: Esfera.002_MeshPart1
+    400152: Esfera.003
+    400154: Esfera.004
+    400156: Esfera.005
+    400158: Esfera.005_MeshPart0
+    400160: Esfera.005_MeshPart1
+    400162: Esqueleto
+    400164: Esqueleto.001
+    400166: Esqueleto.002
+    400168: //RootNode
+    400170: Cubo
+    400172: Cubo.002
+    400174: Cubo.003
+    400176: Esfera.006
+    400178: Esfera.007
+    400180: Texto
+    400182: Texto.001
+    400184: Texto.002
+    2300000: Cubo
+    2300002: Cubo.002
+    2300004: Cubo.003
+    2300006: Esfera.006
+    2300008: Esfera.007
+    2300010: Texto
+    2300012: Texto.001
+    2300014: Texto.002
+    3300000: Cubo
+    3300002: Cubo.002
+    3300004: Cubo.003
+    3300006: Esfera.006
+    3300008: Esfera.007
+    3300010: Texto
+    3300012: Texto.001
+    3300014: Texto.002
+    4300000: Esfera.005_MeshPart0
+    4300002: Esfera.005_MeshPart1
+    4300004: Esfera.004
+    4300006: Cubo.001
+    4300008: Cubo.000
+    4300010: Esfera.003
+    4300012: Esfera.002_MeshPart0
+    4300014: Esfera.002_MeshPart1
+    4300016: Esfera.001_MeshPart0
+    4300018: Esfera.001_MeshPart1
+    4300020: Esfera
+    4300022: Cubo.006
+    4300024: Esfera.005
+    4300026: Esfera.002
+    4300028: Esfera.001
+    4300030: Texto.002
+    4300032: Cubo.003
+    4300034: Texto.001
+    4300036: Cubo.002
+    4300038: Texto
+    4300040: Cubo
+    4300042: Esfera.007
+    4300044: Esfera.006
+    7400000: Scene
+    9500000: //RootNode
+    13700000: Cubo.000
+    13700002: Cubo.001
+    13700004: Cubo.006
+    13700006: Esfera
+    13700008: Esfera.001_MeshPart0
+    13700010: Esfera.001_MeshPart1
+    13700012: Esfera.002_MeshPart0
+    13700014: Esfera.002_MeshPart1
+    13700016: Esfera.003
+    13700018: Esfera.004
+    13700020: Esfera.005_MeshPart0
+    13700022: Esfera.005_MeshPart1
+    13700024: Esfera.001
+    13700026: Esfera.002
+    13700028: Esfera.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

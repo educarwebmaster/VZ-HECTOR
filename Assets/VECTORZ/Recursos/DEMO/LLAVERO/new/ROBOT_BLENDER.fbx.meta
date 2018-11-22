@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: cf02ba5e4119fa9498f68375b7e1a424
+timeCreated: 1468513784
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_002
+    100004: Bone_003
+    100006: Bone_004
+    100008: C_rculo
+    100010: C_rculo_001
+    100012: Camera
+    100014: Cubo
+    100016: Cubo_001
+    100018: Esfera_001
+    100020: Esfera_002
+    100022: Esfera_003
+    100024: Esfera_005
+    100026: Esqueleto
+    100028: Lamp
+    100030: //RootNode
+    400000: Bone
+    400002: Bone_002
+    400004: Bone_003
+    400006: Bone_004
+    400008: C_rculo
+    400010: C_rculo_001
+    400012: Camera
+    400014: Cubo
+    400016: Cubo_001
+    400018: Esfera_001
+    400020: Esfera_002
+    400022: Esfera_003
+    400024: Esfera_005
+    400026: Esqueleto
+    400028: Lamp
+    400030: //RootNode
+    2300000: C_rculo
+    2300002: C_rculo_001
+    2300004: Cubo
+    2300006: Cubo_001
+    2300008: Esfera_001
+    2300010: Esfera_002
+    2300012: Esfera_003
+    2300014: Esfera_005
+    3300000: C_rculo
+    3300002: C_rculo_001
+    3300004: Cubo
+    3300006: Cubo_001
+    3300008: Esfera_001
+    3300010: Esfera_002
+    3300012: Esfera_003
+    3300014: Esfera_005
+    4300000: Esfera_002
+    4300002: Cubo_001
+    4300004: Esfera_003
+    4300006: Esfera_001
+    4300008: Cubo
+    4300010: Esfera_005
+    4300012: C_rculo
+    4300014: C_rculo_001
+    7400000: EsqueletoAction
+    9500000: //RootNode
+    13700000: C_rculo
+    13700002: C_rculo_001
+    13700004: Cubo
+    13700006: Cubo_001
+    13700008: Esfera_001
+    13700010: Esfera_002
+    13700012: Esfera_003
+    13700014: Esfera_005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

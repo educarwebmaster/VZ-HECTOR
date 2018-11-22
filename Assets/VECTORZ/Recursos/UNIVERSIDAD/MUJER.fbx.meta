@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 81a6133730e30ea49b70b5d499cd85ba
+timeCreated: 1485461507
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ANTEBRAZO_DER
+    100002: ANTEBRAZO_IZQ
+    100004: Bone_020
+    100006: Bone_021
+    100008: Bone_022
+    100010: Bone_023
+    100012: Bone_024
+    100014: Bone_025
+    100016: Bone_026
+    100018: Bone_027
+    100020: Bone_028
+    100022: Bone_029
+    100024: Bone_030
+    100026: Bone_031
+    100028: Bone_032
+    100030: Bone_033
+    100032: Bone_034
+    100034: Bone_035
+    100036: Bone_036
+    100038: Bone_037
+    100040: Bone_038
+    100042: Bone_039
+    100044: Bone_040
+    100046: Bone_041
+    100048: Bone_042
+    100050: Bone_043
+    100052: Bone_044
+    100054: Bone_045
+    100056: Bone_046
+    100058: Bone_047
+    100060: Bone_048
+    100062: Bone_049
+    100064: Bone_050
+    100066: Bone_051
+    100068: Bone_052
+    100070: Bone_053
+    100072: Bone_054
+    100074: Bone_055
+    100076: Bone_056
+    100078: Bone_057
+    100080: Bone_058
+    100082: Bone_059
+    100084: Bone_062
+    100086: Bone_064
+    100088: Bone_066
+    100090: Bone_068
+    100092: Bone_069
+    100094: Bone_070
+    100096: Bone_072
+    100098: Bone_074
+    100100: Bone_075
+    100102: Bone_076
+    100104: Bone_078
+    100106: Bone_080
+    100108: BRAZI_IZQ
+    100110: BRAZO_DER
+    100112: CABEZA
+    100114: CARA
+    100116: CUELLO1
+    100118: CUELLO2
+    100120: CUERPO
+    100122: Esqueleto
+    100124: FEMUR_DER
+    100126: FEMUR_IZQ
+    100128: HOMBRO_DER
+    100130: HOMBRO_IZQ
+    100132: //RootNode
+    100134: OJOS
+    100136: PATA_DER
+    100138: PATA_IZQ
+    100140: PELO
+    100142: PIE_DER
+    100144: PIE_IZQ
+    100146: PIPE
+    100148: RODILLA_DER
+    100150: RODILLA_IZQ
+    100152: SPINA1
+    100154: SPINA2
+    400000: ANTEBRAZO_DER
+    400002: ANTEBRAZO_IZQ
+    400004: Bone_020
+    400006: Bone_021
+    400008: Bone_022
+    400010: Bone_023
+    400012: Bone_024
+    400014: Bone_025
+    400016: Bone_026
+    400018: Bone_027
+    400020: Bone_028
+    400022: Bone_029
+    400024: Bone_030
+    400026: Bone_031
+    400028: Bone_032
+    400030: Bone_033
+    400032: Bone_034
+    400034: Bone_035
+    400036: Bone_036
+    400038: Bone_037
+    400040: Bone_038
+    400042: Bone_039
+    400044: Bone_040
+    400046: Bone_041
+    400048: Bone_042
+    400050: Bone_043
+    400052: Bone_044
+    400054: Bone_045
+    400056: Bone_046
+    400058: Bone_047
+    400060: Bone_048
+    400062: Bone_049
+    400064: Bone_050
+    400066: Bone_051
+    400068: Bone_052
+    400070: Bone_053
+    400072: Bone_054
+    400074: Bone_055
+    400076: Bone_056
+    400078: Bone_057
+    400080: Bone_058
+    400082: Bone_059
+    400084: Bone_062
+    400086: Bone_064
+    400088: Bone_066
+    400090: Bone_068
+    400092: Bone_069
+    400094: Bone_070
+    400096: Bone_072
+    400098: Bone_074
+    400100: Bone_075
+    400102: Bone_076
+    400104: Bone_078
+    400106: Bone_080
+    400108: BRAZI_IZQ
+    400110: BRAZO_DER
+    400112: CABEZA
+    400114: CARA
+    400116: CUELLO1
+    400118: CUELLO2
+    400120: CUERPO
+    400122: Esqueleto
+    400124: FEMUR_DER
+    400126: FEMUR_IZQ
+    400128: HOMBRO_DER
+    400130: HOMBRO_IZQ
+    400132: //RootNode
+    400134: OJOS
+    400136: PATA_DER
+    400138: PATA_IZQ
+    400140: PELO
+    400142: PIE_DER
+    400144: PIE_IZQ
+    400146: PIPE
+    400148: RODILLA_DER
+    400150: RODILLA_IZQ
+    400152: SPINA1
+    400154: SPINA2
+    4300000: CARA
+    4300002: CUERPO
+    4300004: PELO
+    4300006: OJOS
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: CARA
+    13700002: CUERPO
+    13700004: OJOS
+    13700006: PELO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 894
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CARA
+        weight: 1
+      - path: CUERPO
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/PIPE
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_DER
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_DER/FEMUR_DER
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_DER/FEMUR_DER/RODILLA_DER
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_DER/FEMUR_DER/RODILLA_DER/PATA_DER
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_IZQ/FEMUR_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_IZQ/FEMUR_IZQ/RODILLA_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/PIE_IZQ/FEMUR_IZQ/RODILLA_IZQ/PATA_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_041
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_041/Bone_042
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_041/Bone_042/Bone_043
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_044
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_044/Bone_045
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_044/Bone_045/Bone_046
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_044/Bone_045/Bone_046/Bone_047
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_048
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_048/Bone_049
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_048/Bone_049/Bone_050
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_048/Bone_049/Bone_050/Bone_051
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_052
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_052/Bone_053
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_052/Bone_053/Bone_054
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_052/Bone_053/Bone_054/Bone_055
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_056
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_056/Bone_057
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_056/Bone_057/Bone_058
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZI_IZQ/HOMBRO_IZQ/ANTEBRAZO_IZQ/Bone_040/Bone_056/Bone_057/Bone_058/Bone_059
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_021
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_021/Bone_028
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_021/Bone_028/Bone_029
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_021/Bone_028/Bone_029/Bone_030
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_022
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_022/Bone_026
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_022/Bone_026/Bone_027
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_023
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_023/Bone_031
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_023/Bone_031/Bone_032
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_023/Bone_031/Bone_032/Bone_033
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_024
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_024/Bone_034
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_024/Bone_034/Bone_035
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_024/Bone_034/Bone_035/Bone_036
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_025
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_025/Bone_037
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_025/Bone_037/Bone_038
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/BRAZO_DER/HOMBRO_DER/ANTEBRAZO_DER/Bone_020/Bone_025/Bone_037/Bone_038/Bone_039
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_062
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_064
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_066
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_066/Bone_069
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_068
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_070
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_072
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_072/Bone_075
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_074
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_076
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_078
+        weight: 1
+      - path: Esqueleto/PIPE/SPINA1/SPINA2/CUELLO1/CUELLO2/CABEZA/Bone_080
+        weight: 1
+      - path: OJOS
+        weight: 1
+      - path: PELO
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
